@@ -1,0 +1,2 @@
+# PalPickFrostallion
+幻兽帕鲁挑选高攻焕冬兽boss脚本
